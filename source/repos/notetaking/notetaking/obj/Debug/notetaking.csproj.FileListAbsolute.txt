@@ -1,0 +1,11 @@
+C:\Users\alvey\source\repos\notetaking\notetaking\bin\Debug\notetaking.exe.config
+C:\Users\alvey\source\repos\notetaking\notetaking\bin\Debug\notetaking.exe
+C:\Users\alvey\source\repos\notetaking\notetaking\bin\Debug\notetaking.pdb
+C:\Users\alvey\source\repos\notetaking\notetaking\obj\Debug\notetaking.csproj.AssemblyReference.cache
+C:\Users\alvey\source\repos\notetaking\notetaking\obj\Debug\notetaking.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvey\source\repos\notetaking\notetaking\obj\Debug\notetaking.Notetaking.resources
+C:\Users\alvey\source\repos\notetaking\notetaking\obj\Debug\notetaking.Properties.Resources.resources
+C:\Users\alvey\source\repos\notetaking\notetaking\obj\Debug\notetaking.csproj.GenerateResource.cache
+C:\Users\alvey\source\repos\notetaking\notetaking\obj\Debug\notetaking.csproj.CoreCompileInputs.cache
+C:\Users\alvey\source\repos\notetaking\notetaking\obj\Debug\notetaking.exe
+C:\Users\alvey\source\repos\notetaking\notetaking\obj\Debug\notetaking.pdb
